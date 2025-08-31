@@ -10,7 +10,7 @@ This setup benefits both new developers, who may need a guided method for tackli
 
 **Key benefits include:**
 
-    •	A clear roadmap for Salesforce project execution.
+  - •	A clear roadmap for Salesforce project execution.
   - •	Ready-to-use examples based on completed capstone and keystone projects.
   - •	Agile workflows aligned with industry standards.
   - •	A method for tracking and updating work items as development progresses.

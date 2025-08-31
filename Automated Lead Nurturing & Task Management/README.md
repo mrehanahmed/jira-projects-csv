@@ -1,16 +1,12 @@
  # Automated Lead Nurturing  & Task Management
 
+[![Salesforce](https://img.shields.io/badge/Platform-Salesforce-00A1E0?logo=salesforce&logoColor=white)](https://www.salesforce.com/)
 
+![Flows](https://img.shields.io/badge/Automation-Flows-brightgreen)
 
- [! [Salesforce](https://img.shields.io/badge/Platform-Salesforce-00A1E0?logo=salesforce &logoColor=white)](https://www.salesforce.com/)
+![Reports](https://img.shields.io/badge/Analytics-Reports%20%26%20Dashboards-blue)
 
-! [Flows](https://img.shields.io/badge/Automation-Flows-brightgreen)
-
-! [Reports](https://img.shields.io/badge/Analytics-Reports%20%26%20Dashboards-blue)
-
-! [Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-
-
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 ---
 
@@ -171,6 +167,7 @@ This project aims to:
 This project is proprietary and developed for  * * [ENTER NAME OF COMPANY] * *.  
 
 Please review usage rights before distribution.
+
 
 
 

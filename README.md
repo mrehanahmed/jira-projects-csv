@@ -10,11 +10,11 @@ This setup benefits both new developers, who may need a guided method for tackli
 
 **Key benefits include:**
 
-  - •	A clear roadmap for Salesforce project execution.
-  - •	Ready-to-use examples based on completed capstone and keystone projects.
-  - •	Agile workflows aligned with industry standards.
-  - •	A method for tracking and updating work items as development progresses.
-  - •	Greater collaboration and transparency across stakeholders.
+  - A clear roadmap for Salesforce project execution.
+  - Ready-to-use examples based on completed capstone and keystone projects.
+  - Agile workflows aligned with industry standards.
+  - A method for tracking and updating work items as development progresses.
+  - Greater collaboration and transparency across stakeholders.
 
 Future updates will also include configuration files to further streamline project setup and integration with Salesforce environments.
 
@@ -27,7 +27,8 @@ This repo showcases end-to-end Salesforce solutions I have designed, configured,
 
 ## 📂 Projects
 
-### 1. [Omni-Channel Customer 360](./OmniChannel-Customer-360/README.md)
+
+### 1. [Omni-Channel Customer 360](./Omni%20Channel%20Customer%20360/README.md)
 A Salesforce-powered **Customer 360 solution** for [ENTER NAME OF COMPANY], providing a **real-time unified customer view** across **Sales, Service, and Marketing**.  
 - Consolidated data from multiple sources  
 - Implemented **Platform Events** for real-time updates  
@@ -36,7 +37,8 @@ A Salesforce-powered **Customer 360 solution** for [ENTER NAME OF COMPANY], prov
 
 ---
 
-### 2. [Automated Campaign Engagement & Segmentation](./Automated-Campaign-Engagement/README.md)
+
+### 2. [Automated Campaign Engagement & Segmentation](./Automated%20Campaign%20Engagement%20%26%20Segmentation/README.md)
 A **Marketing Cloud & Salesforce automation** solution to optimize **campaign member engagement** and **audience segmentation**.  
 - Automated **adding/removing campaign members**  
 - Developed **Flows** for engagement tracking  
@@ -45,7 +47,7 @@ A **Marketing Cloud & Salesforce automation** solution to optimize **campaign me
 
 ---
 
-### 3. [Automated Lead Nurturing & Task Management](./Automated-Lead-Nurturing/README.md)
+### 3. [Automated Lead Nurturing & Task Management](./Automated%20Lead%20Nurturing%20%26%20Task%20Management/README.md)
 A **Sales Cloud solution** to streamline **lead nurturing** and automate **task management** for Sales Representatives.  
 - Designed automated **lead lifecycle flow**  
 - Configured **Lead Assignment Rules**  
@@ -54,7 +56,7 @@ A **Sales Cloud solution** to streamline **lead nurturing** and automate **task 
 
 ---
 
-### 4. [Real-Time Field Service Dispatch Optimization](./Field-Service-Dispatch-Optimization/README.md)
+### 4. [Real-Time Field Service Dispatch Optimization](./Real%20Time%20Field%20Service%20Dispatch%20Optimization/README.md)
 A **Service Cloud & Field Service solution** for optimizing **technician dispatching** using **real-time location, skill sets, and workload balancing**.  
 - Built a **Dispatch Console LWC**  
 - Integrated **real-time technician location data**  

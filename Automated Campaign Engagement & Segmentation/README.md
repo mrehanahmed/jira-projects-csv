@@ -1,15 +1,19 @@
  # Automated Campaign Engagement  & Segmentation
 
+[![Salesforce](https://img.shields.io/badge/Platform-Salesforce-00A1E0?logo=salesforce&logoColor=white)](https://www.salesforce.com/)
 
+![Sales Cloud](https://img.shields.io/badge/Cloud-Sales%20Cloud-orange)
+![Service Cloud](https://img.shields.io/badge/Cloud-Service%20Cloud-1E90FF)
+![Marketing Cloud](https://img.shields.io/badge/Cloud-Marketing%20Cloud-FF6F00)
 
- [! [Salesforce](https://img.shields.io/badge/Platform-Salesforce-00A1E0?logo=salesforce &logoColor=white)](https://www.salesforce.com/)
+![Apex](https://img.shields.io/badge/Code-Apex-1434A4)
+![LWC](https://img.shields.io/badge/Code-LWC-00A1E0)
+![Flows](https://img.shields.io/badge/Automation-Flows-brightgreen)
 
-! [Flows](https://img.shields.io/badge/Automation-Flows-brightgreen)
+![Reports](https://img.shields.io/badge/Analytics-Reports%20%26%20Dashboards-blue)
+![Integration](https://img.shields.io/badge/Feature-Integration-purple)
 
-! [Reports](https://img.shields.io/badge/Analytics-Reports%20%26%20Dashboards-blue)
-
-! [Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 
 ---
@@ -209,6 +213,7 @@ The project aims to:
 This project is proprietary and developed for  * * [ENTER NAME OF COMPANY] * *.  
 
 Please review usage rights before distribution.
+
 
 
 

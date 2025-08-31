@@ -18,3 +18,70 @@ This setup benefits both new developers, who may need a guided method for tackli
 
 Future updates will also include configuration files to further streamline project setup and integration with Salesforce environments.
 
+# 🚀 Salesforce Project Portfolio
+
+Welcome to my **Salesforce Project Portfolio Repository**.  
+This repo showcases end-to-end Salesforce solutions I have designed, configured, and implemented — covering **Sales Cloud, Service Cloud, Marketing Cloud, Flows, Apex, LWCs, and Integrations**.
+
+---
+
+## 📂 Projects
+
+### 1. [Omni-Channel Customer 360](./OmniChannel-Customer-360/README.md)
+A Salesforce-powered **Customer 360 solution** for Skills Horizon, providing a **real-time unified customer view** across **Sales, Service, and Marketing**.  
+- Consolidated data from multiple sources  
+- Implemented **Platform Events** for real-time updates  
+- Built **Lightning Web Components** for enhanced UI  
+- Created **custom objects** like `External_Order_History__c`  
+
+---
+
+### 2. [Automated Campaign Engagement & Segmentation](./Automated-Campaign-Engagement/README.md)
+A **Marketing Cloud & Salesforce automation** solution to optimize **campaign member engagement** and **audience segmentation**.  
+- Automated **adding/removing campaign members**  
+- Developed **Flows** for engagement tracking  
+- Configured **Reports & Dashboards** for campaign KPIs  
+- Used **Custom Metadata Types** for segmentation rules  
+
+---
+
+### 3. [Automated Lead Nurturing & Task Management](./Automated-Lead-Nurturing/README.md)
+A **Sales Cloud solution** to streamline **lead nurturing** and automate **task management** for Sales Representatives.  
+- Designed automated **lead lifecycle flow**  
+- Configured **Lead Assignment Rules**  
+- Implemented **Follow-up schedules** using Flows & Email Alerts  
+- Built **Reports & Dashboards** for lead tracking  
+
+---
+
+### 4. [Real-Time Field Service Dispatch Optimization](./Field-Service-Dispatch-Optimization/README.md)
+A **Service Cloud & Field Service solution** for optimizing **technician dispatching** using **real-time location, skill sets, and workload balancing**.  
+- Built a **Dispatch Console LWC**  
+- Integrated **real-time technician location data**  
+- Used **Platform Events** for live dispatch orchestration  
+- Enhanced **technician mobile experience** with real-time updates  
+
+---
+
+## 🛠 Salesforce Features Highlighted
+Across projects, I’ve worked extensively with:  
+- **Flows (Screen, Record-Triggered, Schedule-Triggered)**  
+- **Apex, Triggers, Test Classes**  
+- **Lightning Web Components (LWC)**  
+- **Platform Events & Event-Driven Architecture**  
+- **Custom Metadata Types**  
+- **Reports, Dashboards & Analytics**  
+- **Profiles, Permission Sets, Roles & OWD**  
+- **Validation Rules, Duplicate Rules, Matching Rules**  
+- **Approval Processes & Automation**  
+
+---
+
+## 📌 About This Repo
+Each project folder contains:  
+- `README.md` → Detailed documentation (overview, problem, solution, features)  
+- Configurations, design artifacts, and references where possible  
+
+This portfolio demonstrates my **ability to deliver scalable Salesforce solutions** that improve business processes across **Sales, Service, and Marketing**.
+
+---

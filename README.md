@@ -38,7 +38,7 @@ A Salesforce-powered **Customer 360 solution** for [ENTER NAME OF COMPANY], prov
 ---
 
 
-### 2. [Automated Campaign Engagement & Segmentation](./Automated%20Campaign%20Engagement%20%26%20Segmentation/README.md)
+### 2. [Automated Campaign Engagement & Segmentation](./Automated%20Campaign%20Engagement%20%26%20Segmentation)
 A **Marketing Cloud & Salesforce automation** solution to optimize **campaign member engagement** and **audience segmentation**.  
 - Automated **adding/removing campaign members**  
 - Developed **Flows** for engagement tracking  
@@ -47,7 +47,7 @@ A **Marketing Cloud & Salesforce automation** solution to optimize **campaign me
 
 ---
 
-### 3. [Automated Lead Nurturing & Task Management](./Automated%20Lead%20Nurturing%20%26%20Task%20Management/README.md)
+### 3. [Automated Lead Nurturing & Task Management](./Automated%20Lead%20Nurturing%20%26%20Task%20Management)
 A **Sales Cloud solution** to streamline **lead nurturing** and automate **task management** for Sales Representatives.  
 - Designed automated **lead lifecycle flow**  
 - Configured **Lead Assignment Rules**  
@@ -56,7 +56,7 @@ A **Sales Cloud solution** to streamline **lead nurturing** and automate **task 
 
 ---
 
-### 4. [Real-Time Field Service Dispatch Optimization](./Real%20Time%20Field%20Service%20Dispatch%20Optimization/README.md)
+### 4. [Real-Time Field Service Dispatch Optimization](./Field%20Service%20Dispatch)
 A **Service Cloud & Field Service solution** for optimizing **technician dispatching** using **real-time location, skill sets, and workload balancing**.  
 - Built a **Dispatch Console LWC**  
 - Integrated **real-time technician location data**  

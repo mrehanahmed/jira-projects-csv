@@ -27,7 +27,6 @@ This repo showcases end-to-end Salesforce solutions I have designed, configured,
 
 ## 📂 Projects
 
-https://github.com/mrehanahmed/jira-projects-csv/tree/main/
 ### 1. [Omni-Channel Customer 360](./Omni%20Channel%20360)
 A Salesforce-powered **Customer 360 solution** for [ENTER NAME OF COMPANY], providing a **real-time unified customer view** across **Sales, Service, and Marketing**.  
 - Consolidated data from multiple sources  

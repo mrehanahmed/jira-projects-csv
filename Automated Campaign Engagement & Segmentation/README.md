@@ -52,7 +52,7 @@
 
  ### Summary
 
-The  * *Automated Campaign Engagement  & Segmentation * * project is a cloud-based solution developed for  * * [ENTER NAME OF COMPANY] * * within the marketing sector, leveraging  * *Salesforce programming * * and  * *declarative development * *.  
+The  ** Automated Campaign Engagement  & Segmentation **  project is a cloud-based solution developed for  **  [ENTER NAME OF COMPANY] **  within the marketing sector, leveraging  ** Salesforce programming **  and  ** declarative development ** .  
 
 
 
@@ -66,7 +66,7 @@ This application automates campaign management, enabling organizations to:
 
 
 
- * *Primary goal: * *  
+ ** Primary goal: **   
 
 Enhance marketing efficiency, reduce manual workloads, and improve the overall experience for marketing professionals.  
 
@@ -82,7 +82,7 @@ The traditional campaign management process is time-consuming and labor-intensiv
 
 
 
- * *Challenges marketing professionals face: * *
+ ** Challenges marketing professionals face: ** 
 
  - Overhead of manually adding/removing campaign members  
 
@@ -118,19 +118,19 @@ The traditional campaign management process is time-consuming and labor-intensiv
 
 Key tasks and automation features delivered:  
 
- - Conducted  * *stakeholder interviews * * with Marketing and Sales teams  
+ - Conducted  ** stakeholder interviews **  with Marketing and Sales teams  
 
- - Documented current  * *manual processes and pain points * *  
+ - Documented current  ** manual processes and pain points **   
 
- - Defined  * *campaign types * * (e.g., Webinar, Email, Tradeshow) and  * *member status values * *  
+ - Defined  ** campaign types **  (e.g., Webinar, Email, Tradeshow) and  ** member status values **   
 
- - Mapped  * *automated actions * * for each campaign member status change  
+ - Mapped  ** automated actions **  for each campaign member status change  
 
- - Developed multiple  * *Flows * * (add/remove members, update records, automate engagement)  
+ - Developed multiple  ** Flows **  (add/remove members, update records, automate engagement)  
 
- - Configured  * *Reports  & Dashboards * * to provide insights into campaign performance  
+ - Configured  ** Reports  & Dashboards **  to provide insights into campaign performance  
 
- - Enabled  * *data-driven decision-making * * with real-time marketing insights  
+ - Enabled  ** data-driven decision-making **  with real-time marketing insights  
 
 
 
@@ -144,13 +144,13 @@ The project aims to:
 
  - Automate campaign member engagement workflows  
 
- - Enable  * *audience segmentation * * with defined rules  
+ - Enable  ** audience segmentation **  with defined rules  
 
- - Maintain  * *detailed engagement tracking * * for campaign members  
+ - Maintain  ** detailed engagement tracking **  for campaign members  
 
- - Streamline  * *follow-up communications * * based on responses  
+ - Streamline  ** follow-up communications **  based on responses  
 
- - Drive  * *higher engagement and conversion rates * * through optimized strategies  
+ - Drive  ** higher engagement and conversion rates **  through optimized strategies  
 
 
 
@@ -160,21 +160,21 @@ The project aims to:
 
  ## Features of Salesforce Used
 
- -  * *Data Model: * * Applications, Objects, Fields, Records, Tabs  
+ -  ** Data Model: **  Applications, Objects, Fields, Records, Tabs  
 
- -  * *Flows: * * ScreenFlow, Record-Triggered, Scheduled  
+ -  ** Flows: **  ScreenFlow, Record-Triggered, Scheduled  
 
- -  * *Reports  & Dashboards: * * Tabular, Summary, Matrix, Joined  
+ -  ** Reports  & Dashboards: **  Tabular, Summary, Matrix, Joined  
 
- -  * *Validation  & Data Quality: * * Validation Rules, Duplicate Rules, Matching Rules  
+ -  ** Validation  & Data Quality: **  Validation Rules, Duplicate Rules, Matching Rules  
 
- -  * *Email Alerts: * * Automated communications for campaign follow-ups  
+ -  ** Email Alerts: **  Automated communications for campaign follow-ups  
 
- -  * *Dynamic Forms  & Record Types: * * Enhanced user experience  
+ -  ** Dynamic Forms  & Record Types: **  Enhanced user experience  
 
- -  * *Custom Metadata Types: * * Store segmentation rules  
+ -  ** Custom Metadata Types: **  Store segmentation rules  
 
- -  * *Integrations: * * Sync external systems with Salesforce for enriched data  
+ -  ** Integrations: **  Sync external systems with Salesforce for enriched data  
 
 
 
@@ -210,10 +210,9 @@ The project aims to:
 
  ## License
 
-This project is proprietary and developed for  * * [ENTER NAME OF COMPANY] * *.  
+This project is proprietary and developed for  **  [ENTER NAME OF COMPANY] ** .  
 
 Please review usage rights before distribution.
-
 
 
 

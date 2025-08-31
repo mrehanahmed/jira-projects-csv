@@ -28,7 +28,7 @@ This repo showcases end-to-end Salesforce solutions I have designed, configured,
 ## 📂 Projects
 
 ### 1. [Omni-Channel Customer 360](./OmniChannel-Customer-360/README.md)
-A Salesforce-powered **Customer 360 solution** for Skills Horizon, providing a **real-time unified customer view** across **Sales, Service, and Marketing**.  
+A Salesforce-powered **Customer 360 solution** for [ENTER NAME OF COMPANY], providing a **real-time unified customer view** across **Sales, Service, and Marketing**.  
 - Consolidated data from multiple sources  
 - Implemented **Platform Events** for real-time updates  
 - Built **Lightning Web Components** for enhanced UI  
